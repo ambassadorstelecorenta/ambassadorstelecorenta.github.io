@@ -51,7 +51,7 @@ Tendrá lugar el martes 19 de diciembre de 2023 con la participación de David C
 ---
 
 # Para institutos
-¿Quieres que te enviemos a un ambassador para que cuente su experiencia? Por favor, contáctanos [en este formulario](https://forms.gle/9Myo4pTmsiHUv26K8). Si quieres más información sobre el programa, nos puedes contactar [aquí].
+¿Quieres que te enviemos a un ambassador para que cuente su experiencia? Por favor, contáctanos [en este formulario](https://forms.gle/9Myo4pTmsiHUv26K8). Si quieres más información sobre el programa, nos puedes contactar [en esta dirección de correo electrónico](mailto:ambassadors.telecorenta@gmail.com).
 
 ---
 

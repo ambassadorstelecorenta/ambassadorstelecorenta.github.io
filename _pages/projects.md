@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ambassadors
+title: ambassadors
 permalink: /ambassadors/
 description: Ambassadors participantes en el programa
 nav: true
