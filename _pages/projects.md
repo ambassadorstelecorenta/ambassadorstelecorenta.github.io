@@ -1,11 +1,11 @@
 ---
 layout: page
-title: participar
-permalink: /participar/
-description: A growing collection of your cool projects.
+title: Ambassadors
+permalink: /ambassadors/
+description: Ambassadors participantes en el programa
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [gold, silver]
 horizontal: false
 ---
 

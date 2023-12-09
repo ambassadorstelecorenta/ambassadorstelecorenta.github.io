@@ -27,22 +27,33 @@ Cuando dices que eres teleco, ¿piensas que se entiende todo lo que se hace?  --
 # ¿En qué consiste?
 El objetivo de este programa es que compartas tu experiencia con estudiantes de secundaria y bachillerato para dar a conocer la ingeniería de telecomunicación, que creemos es cada vez más imprescindible para la sociedad actual.
 
+---
+
+# Evento de presentación
+Tendrá lugar el martes 19 de diciembre de 2023 con la participación de David Calle, de [unicoos](https://www.instagram.com/unicoos) en el [auditorio del campus Puerta de Toledo de la Universidad Carlos III de Madrid](https://maps.app.goo.gl/WAoMZ7JXAGp4PH5v7). Si puedes asistir presencialmente, [¡apúntate en este formulario y nos vemos allí!](https://forms.gle/9Myo4pTmsiHUv26K8). Si no puedes asistir, lo puedes ver en el canal de Youtube de Teleco Renta [aquí](https://www.youtube.com/watch?v=EPdTn9Qp_W4).
+
+---
+
 # Para ambassadors
 ## ¿Qué necesito para participar?
 1. Estar cursando o haber cursado un grado o carrera de telecomunicación.
-2. Tener un certificado de no haber cometido delitos sexuales actualizado.
-3. Contactar con un instituto para contar tu experiencia.
+2. En cumplimiento del art. 8 de la ley 45/2015, de 14 de octubre, de Voluntariado, solicitar la certificación negativa del Registro Central de Delincuentes Sexuales (el certificado no deberá tener más de dos meses de antigüedad). Lo puedes hacer online y completamente **gratis**, si tienes certificado digital, [aquí](https://sede.mjusticia.gob.es/es/tramites/certificado-registro-central).
+3. Contactar con un instituto para contar tu experiencia, o darte de alta en [este formulario](https://forms.gle/9Myo4pTmsiHUv26K8) para avisarte en el caso de que algún instituto cercano pida ambassadors.
    
 ## Material de ayuda
-- Presentación de apoyo.
-- Grabación del primer evento de Ambassadors.
+- [Presentación de apoyo](assets/ambassadors_template.pptx). 
+- [Grabación del primer evento de Ambassadors](https://www.youtube.com/watch?v=EPdTn9Qp_W4).
 
 ## Recompensas
-- Si nos comunicas que, al menos, acudes a un instituto, podrás aparecer en esta sección si así lo deseas y tendrás una badge de reconocimiento en LinkedIn como esta.
-- Si nos comunicas que, al menos, acudes a tres institutos, conseguirás esta fantástica mochila que te mandaremos a casa si así lo deseas.
+- Si nos comunicas que, al menos, acudes a un instituto, podrás aparecer en esta sección si así lo deseas y tendrás una badge de reconocimiento en LinkedIn [como esta](www.linkedin.com).
+- Si nos comunicas que, al menos, acudes a tres institutos, conseguirás [esta fantástica mochila](https://www.decathlon.es/es/p/mochila-de-senderismo-23l-nh-escape-500/_/R-p-334344) que te mandaremos a casa si así lo deseas.
+
+---
 
 # Para institutos
 ¿Quieres que te enviemos a un ambassador para que cuente su experiencia? Por favor, contáctanos [en este formulario](https://forms.gle/9Myo4pTmsiHUv26K8). Si quieres más información sobre el programa, nos puedes contactar [aquí].
+
+---
 
 Este programa forma parte de las actividades de [Teleco Renta](http://telecorenta.es).
 
@@ -75,8 +86,8 @@ Este programa forma parte de las actividades de [Teleco Renta](http://telecorent
 <!-- - Infografía con el método. -->
 <!-- - Logos abajo. -->
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
