@@ -10,7 +10,7 @@ nav_order: 6
 <!-- # FAQs -->
 # ¿Quién puede participar?
 La única condición es haber cursado (o estar cursando) un grado o carrera universitaria relacionado con las telecomunicaciones, y tener un certificado que reconozca que no has cometido delitos sexuales, lo que es necesario para tratar con menores de edad.
-El certificado lo puedes pedir sin coste aquí. No es necesario que nos lo mandes, pero al colaborar en el programa aceptarás una declaración responsable de que lo tienes disponible en caso de que hiciera falta.
+El certificado lo puedes pedir sin coste [aquí](https://sede.mjusticia.gob.es/es/tramites/certificado-registro-central), si tienes certificado digital. No es necesario que nos lo mandes, pero al colaborar en el programa aceptarás una declaración responsable de que lo tienes disponible en caso de que hiciera falta.
 
 # ¿Qué se espera que cuente en esta presentación?
 Tienes una presentación que puedes usar de base [aquí](assets/ambassadors_template.pptx), y también tienes la grabación de la primera presentación del programa, hecha por David Calle, de [unicoos](https://www.instagram.com/unicoos), [en este enlace](https://www.youtube.com/watch?v=EPdTn9Qp_W4). Aparte de que se trató de un evento muy interesante, te puede servir como ejemplo de cómo comunicar tu experiencia de la forma más efectiva posible.
@@ -23,7 +23,7 @@ Tienes una presentación que puedes usar de base [aquí](assets/ambassadors_temp
 
 # El premio no es lo más importante, pero... ¿cómo lo consigo?
 Para conseguir esta fantástica mochila serigrafiada con motivos de Teleco Renta, necesitas participar en charlas en, al menos, tres institutos. Para conseguir el reconocimiento en LinkedIn y, si lo deseas, la presencia en [esta sección], debes participar en, al menos, un instituto.
-Para saber que has participado, necesitamos una foto de tu participación en cada instituto y la referencia (nombre y contacto) del instituto al que has acudido, así como unos pequeños datos que nos puedes mandar en este [formulario](https://forms.gle/9Myo4pTmsiHUv26K8).
+Para saber que has participado, necesitamos una foto de tu participación en cada instituto y la referencia (nombre y contacto) del instituto al que has acudido, así como unos pequeños datos que nos puedes mandar en este [formulario](https://forms.gle/8kx5d8Lf8ASVzNfB9).
 
 # ¿Cómo accedo a los institutos?
 Lo más sencillo es que te pongas en contacto con institutos a los que te sea cómodo asistir. Sin embargo, también nos puedes dejar tus datos en este [formulario](https://forms.gle/9Myo4pTmsiHUv26K8) y te avisaremos si algún instituto cercano nos pide ambassadors.
