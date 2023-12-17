@@ -39,7 +39,7 @@ Tendrá lugar el martes 19 de diciembre de 2023 con la participación de David C
 1. Estar cursando o haber cursado un grado o carrera de telecomunicación.
 2. En cumplimiento del art. 8 de la ley 45/2015, de 14 de octubre, de Voluntariado, solicitar la certificación negativa del Registro Central de Delincuentes Sexuales (el certificado no deberá tener más de dos meses de antigüedad). Lo puedes hacer online y completamente **gratis**, si tienes certificado digital, [aquí](https://sede.mjusticia.gob.es/es/tramites/certificado-registro-central).
 3. Apuntarte en el programa en [este formulario](https://forms.gle/AExhzNHpmL8Wffs6A). 
-4. Te avisaremos si encontramos algún instituto/colegio cercano donde puedas ejercer de ambassador, aunque lo más cómodo es que contactes tú con los institutos/colegios que quieras.
+4. Te avisaremos si encontramos algún instituto/colegio cercano donde puedas ejercer de ambassador, aunque lo más cómodo es que contactes tú con los institutos/colegios que quieras. También podemos contactar a algún instituto/colegio al que quieras ir como ambassador si así nos lo indicas en el [formulario anterior](https://forms.gle/AExhzNHpmL8Wffs6A).
 <!-- 5. Contactar con un instituto para contar tu experiencia, o darte de alta en [este formulario](https://forms.gle/9Myo4pTmsiHUv26K8) para avisarte en el caso de que algún instituto cercano pida ambassadors. -->
    
 ## Material de ayuda

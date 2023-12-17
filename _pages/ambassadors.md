@@ -5,7 +5,7 @@ permalink: /ambassadors/
 description: Ambassadors participantes en el programa
 nav: true
 nav_order: 2
-display_categories: [gold, silver]
+display_categories: [gold, silver, apuntados]
 horizontal: false
 ---
 
