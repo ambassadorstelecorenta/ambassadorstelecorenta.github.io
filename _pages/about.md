@@ -34,7 +34,7 @@ Tendrá lugar el martes 19 de diciembre de 2023 con la participación de David C
 
 ---
 
-# Para ambassadors
+# Para ambassador/as
 ## ¿Qué necesito para participar?
 1. Estar cursando o haber cursado un grado o carrera de telecomunicación.
 2. En cumplimiento del art. 8 de la ley 45/2015, de 14 de octubre, de Voluntariado, solicitar la certificación negativa del Registro Central de Delincuentes Sexuales (el certificado no deberá tener más de dos meses de antigüedad). Lo puedes hacer online y completamente **gratis**, si tienes certificado digital, [aquí](https://sede.mjusticia.gob.es/es/tramites/certificado-registro-central).
@@ -47,13 +47,13 @@ Tendrá lugar el martes 19 de diciembre de 2023 con la participación de David C
 - [Grabación del primer evento de Ambassadors](https://www.youtube.com/watch?v=EPdTn9Qp_W4).
 
 ## Recompensas
-- Si nos comunicas que, al menos, acudes a un instituto, podrás aparecer en [esta sección](https://ambassadorstelecorenta.github.io/ambassadors/) si así lo deseas y tendrás una badge de reconocimiento en LinkedIn [como esta](www.linkedin.com).
+- Si nos comunicas que, al menos, acudes a un instituto, podrás aparecer en [esta sección](https://ambassadorstelecorenta.github.io/ambassadors/) si así lo deseas y tendrás una badge de reconocimiento en LinkedIn [como esta](https://www.linkedin.com).
 - Si nos comunicas que, al menos, acudes a tres institutos, conseguirás [esta fantástica mochila](https://www.decathlon.es/es/p/mochila-de-senderismo-23l-nh-escape-500/_/R-p-334344) que te mandaremos a casa si así lo deseas.
 - El formulario para hacernos llegar esta información está [aquí](https://forms.gle/8kx5d8Lf8ASVzNfB9).
 
 ---
 
-# Para institutos
+# Para institutos/colegios
 ¿Quieres que te enviemos a un ambassador para que cuente su experiencia? Por favor, contáctanos [en este formulario](https://forms.gle/9im2CFGbbwXSZnrp8). Si quieres más información sobre el programa, nos puedes contactar [en esta dirección de correo electrónico](mailto:ambassadors.telecorenta@gmail.com).
 
 ---

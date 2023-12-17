@@ -13,7 +13,7 @@ La única condición es haber cursado (o estar cursando) un grado o carrera univ
 El certificado lo puedes pedir sin coste [aquí](https://sede.mjusticia.gob.es/es/tramites/certificado-registro-central), si tienes certificado digital. No es necesario que nos lo mandes, pero al colaborar en el programa aceptarás una declaración responsable de que lo tienes disponible en caso de que hiciera falta.
 
 # ¿Qué se espera que cuente en esta presentación?
-Tienes una presentación que puedes usar de base [aquí](assets/ambassadors_template.pptx), y también tienes la grabación de la primera presentación del programa, hecha por David Calle, de [unicoos](https://www.instagram.com/unicoos), [en este enlace](https://www.youtube.com/watch?v=EPdTn9Qp_W4). Aparte de que se trató de un evento muy interesante, te puede servir como ejemplo de cómo comunicar tu experiencia de la forma más efectiva posible.
+Tienes una presentación que puedes usar de base [aquí](https://ambassadorstelecorenta.github.io/assets/ambassadors_template.pptx), y también tienes la grabación de la primera presentación del programa, hecha por David Calle, de [unicoos](https://www.instagram.com/unicoos), [en este enlace](https://www.youtube.com/watch?v=EPdTn9Qp_W4). Este evento te puede servir como ejemplo de cómo comunicar tu experiencia de la forma más efectiva posible.
 
 # Estoy aún cursando el grado... ¿puedo participar?
 ¡Claro! Puedes contar tu experiencia y algún proyecto chulo que estés haciendo en el grado, o cómo percibes la dificultad de la carrera. Tu experiencia es incluso más valiosa para tu público porque hace poco que pasaste por ahí.
