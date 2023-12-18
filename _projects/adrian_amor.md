@@ -4,7 +4,7 @@ title: Adrián Amor Martín
 description: Adrián Amor Martín
 img: assets/img/adrian_amor.jpg
 importance: 1
-category: silver
+category: enrolled
 redirect: https://aamorm.github.io
 # related_publications: einstein1956investigations, einstein1950meaning
 ---
