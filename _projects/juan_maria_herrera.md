@@ -1,11 +1,11 @@
 ---
 layout: page
-title: John Doe
-description: John Doe
-img: assets/img/12.jpg
+title: Juan María Herrera
+description: Juan María Herrera
+img: assets/img/juan_maria_herrera.jpeg
 importance: 1
 category: silver
-redirect: https://www.google.com
+redirect: https://es.linkedin.com/in/jmherr
 # related_publications: einstein1956investigations, einstein1950meaning
 ---
 <!-- 

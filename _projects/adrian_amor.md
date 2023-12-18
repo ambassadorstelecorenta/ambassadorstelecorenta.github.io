@@ -1,11 +1,11 @@
 ---
 layout: page
-title: John Doe
-description: John Doe
-img: assets/img/12.jpg
+title: Adrián Amor Martín
+description: Adrián Amor Martín
+img: assets/img/adrian_amor.jpg
 importance: 1
-category: gold
-redirect: https://www.google.com
+category: silver
+redirect: https://aamorm.github.io
 # related_publications: einstein1956investigations, einstein1950meaning
 ---
 <!-- 

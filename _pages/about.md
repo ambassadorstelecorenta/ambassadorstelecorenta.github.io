@@ -47,7 +47,7 @@ Tendrá lugar el martes 19 de diciembre de 2023 con la participación de David C
 - [Grabación del primer evento de Ambassadors](https://www.youtube.com/watch?v=EPdTn9Qp_W4).
 
 ## Recompensas
-- Si nos comunicas que, al menos, acudes a un instituto, podrás aparecer en [esta sección](https://ambassadorstelecorenta.github.io/ambassadors/) si así lo deseas y tendrás una badge de reconocimiento en LinkedIn [como esta](https://www.linkedin.com).
+- Si nos comunicas que, al menos, acudes a un instituto, podrás aparecer en [esta sección](https://ambassadorstelecorenta.github.io/ambassadors/) si así lo deseas y tendrás una badge de reconocimiento en LinkedIn [como esta](https://credsverse.com/credentials/9d5fa4c0-5170-4193-8124-b16fd9edfcb5).
 - Si nos comunicas que, al menos, acudes a tres institutos, conseguirás [esta fantástica mochila](https://www.decathlon.es/es/p/mochila-de-senderismo-23l-nh-escape-500/_/R-p-334344) que te mandaremos a casa si así lo deseas.
 - El formulario para hacernos llegar esta información está [aquí](https://forms.gle/8kx5d8Lf8ASVzNfB9).
 
