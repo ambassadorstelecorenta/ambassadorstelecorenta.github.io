@@ -29,8 +29,8 @@ El objetivo de este programa es que compartas tu experiencia con estudiantes de 
 
 ---
 
-# Evento de presentación
-Tendrá lugar el martes 19 de diciembre de 2023 con la participación de David Calle, de [unicoos](https://www.instagram.com/unicoos) en el [auditorio del campus Puerta de Toledo de la Universidad Carlos III de Madrid](https://maps.app.goo.gl/WAoMZ7JXAGp4PH5v7). Si puedes asistir presencialmente, [¡apúntate en este formulario y nos vemos allí!](https://forms.gle/9Myo4pTmsiHUv26K8). Si no puedes asistir, lo puedes ver en el canal de Youtube de Teleco Renta [aquí](https://www.youtube.com/watch?v=EPdTn9Qp_W4).
+<!-- # Evento de presentación
+Tendrá lugar el martes 19 de diciembre de 2023 con la participación de David Calle, de [unicoos](https://www.instagram.com/unicoos) en el [auditorio del campus Puerta de Toledo de la Universidad Carlos III de Madrid](https://maps.app.goo.gl/WAoMZ7JXAGp4PH5v7). Si puedes asistir presencialmente, [¡apúntate en este formulario y nos vemos allí!](https://forms.gle/9Myo4pTmsiHUv26K8). Si no puedes asistir, lo puedes ver en el canal de Youtube de Teleco Renta [aquí](https://www.youtube.com/watch?v=EPdTn9Qp_W4). -->
 
 ---
 
