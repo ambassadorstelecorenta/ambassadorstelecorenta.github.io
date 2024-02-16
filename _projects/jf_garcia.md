@@ -6,3 +6,4 @@ img: assets/img/jf_garcia.jpeg
 importance: 1
 category: enrolled
 redirect: ambassadorstelecorenta.github.io
+---

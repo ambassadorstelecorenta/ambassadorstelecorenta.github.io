@@ -6,3 +6,4 @@ img: assets/img/sandra_comesana.jpg
 importance: 1
 category: enrolled
 redirect: www.linkedin.com/in/sandra-comesaña-64584869
+---

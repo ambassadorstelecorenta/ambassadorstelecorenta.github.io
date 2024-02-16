@@ -6,4 +6,4 @@ img: assets/img/marcos_bou.jpg
 importance: 1
 category: enrolled
 redirect: https://www.linkedin.com/in/marcosbou/
-
+---
