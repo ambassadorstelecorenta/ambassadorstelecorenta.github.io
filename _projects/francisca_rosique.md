@@ -1,11 +1,11 @@
 ---
 layout: page
 title: 
-description: Adrián Amor Martín
+description: María Francisca Rosique Contreras
 img: assets/img/adrian_amor.jpg
 importance: 1
 category: enrolled
-redirect: https://aamorm.github.io
+redirect: https://personas.upct.es/perfil/paqui.rosique
 # related_publications: einstein1956investigations, einstein1950meaning
 ---
 <!-- 

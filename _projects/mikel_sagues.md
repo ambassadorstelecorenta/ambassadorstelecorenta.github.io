@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 
-description: Adrián Amor Martín
-img: assets/img/adrian_amor.jpg
+description: Mikel Sagues García
+img: assets/img/mikel_sagues.png
 importance: 1
 category: enrolled
-redirect: https://aamorm.github.io
+redirect: ambassadorstelecorenta.github.io
+
 # related_publications: einstein1956investigations, einstein1950meaning
 ---
 <!-- 

@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 
-description: Adrián Amor Martín
-img: assets/img/adrian_amor.jpg
+description: Cristina Márquez
+img: assets/img/cristina_marquez.png
 importance: 1
 category: enrolled
-redirect: https://aamorm.github.io
+redirect: www.linkedin.com/in/cristina-marquez/
+
 # related_publications: einstein1956investigations, einstein1950meaning
 ---
 <!-- 
