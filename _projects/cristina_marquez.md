@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Cristina Márquez
 description: Cristina Márquez
 img: assets/img/cristina_marquez.png
 importance: 1

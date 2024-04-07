@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Mikel Sagues García
 description: Mikel Sagues García
 img: assets/img/mikel_sagues.png
 importance: 1

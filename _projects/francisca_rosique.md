@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 
+title: María Francisca Rosique Contreras
 description: María Francisca Rosique Contreras
-img: assets/img/adrian_amor.jpg
+img: assets/img/6.jpg
 importance: 1
 category: enrolled
 redirect: https://personas.upct.es/perfil/paqui.rosique

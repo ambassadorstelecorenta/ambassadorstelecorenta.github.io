@@ -60,7 +60,7 @@ Tendrá lugar el martes 19 de diciembre de 2023 con la participación de David C
 
 Este programa forma parte de las actividades de [Teleco Renta](http://telecorenta.es). Esta actividad es parte de la ayuda TSI-063000-2021-150, financiada por el Ministerio de Asuntos Económicos y Transformación Digital y la Unión Europea-Plan de Recuperación de la UE como entidades financiadoras, en el marco del Plan de Recuperación, Transformación y Resiliencia y el Mecanismo de Recuperación y Resiliencia
 
-<img src="/assets/img/funding_updated.png" width="100%"/>
+<img src="/assets/img/funding.png" width="100%"/>
 
 
 <!-- - Formulario de recoger premios:

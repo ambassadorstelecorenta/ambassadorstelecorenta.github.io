@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Adrián Amor Martín
 description: Adrián Amor Martín
 img: assets/img/adrian_amor.jpg
 importance: 1
