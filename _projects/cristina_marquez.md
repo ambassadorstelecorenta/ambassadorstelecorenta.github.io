@@ -4,7 +4,7 @@ title: Cristina Márquez
 description: Cristina Márquez
 img: assets/img/cristina_marquez.png
 importance: 1
-category: enrolled
+category: gold
 redirect: www.linkedin.com/in/cristina-marquez/
 
 # related_publications: einstein1956investigations, einstein1950meaning
