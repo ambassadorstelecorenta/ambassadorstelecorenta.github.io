@@ -38,8 +38,8 @@ Tendrá lugar el martes 19 de diciembre de 2023 con la participación de David C
 ## ¿Qué necesito para participar?
 1. Estar cursando o haber cursado un grado o carrera de telecomunicación.
 2. En cumplimiento del art. 8 de la ley 45/2015, de 14 de octubre, de Voluntariado, solicitar la certificación negativa del Registro Central de Delincuentes Sexuales (el certificado no deberá tener más de dos meses de antigüedad). Lo puedes hacer online y completamente **gratis**, si tienes certificado digital, [aquí](https://sede.mjusticia.gob.es/es/tramites/certificado-registro-central).
-3. Apuntarte en el programa en [este formulario](https://forms.gle/AExhzNHpmL8Wffs6A). 
-4. Te avisaremos si encontramos algún instituto/colegio cercano donde puedas ejercer de ambassador, aunque lo más cómodo es que contactes tú con los institutos/colegios que quieras. También podemos contactar a algún instituto/colegio al que quieras ir como ambassador si así nos lo indicas en el [formulario anterior](https://forms.gle/AExhzNHpmL8Wffs6A).
+3. **Apuntarte en el programa en [este formulario](https://forms.gle/AExhzNHpmL8Wffs6A)**. 
+4. Te avisaremos si encontramos algún instituto/colegio cercano donde puedas ejercer de ambassador, aunque lo que mejor funciona es que contactes tú con los institutos/colegios que quieras. También podemos contactar a algún instituto/colegio al que quieras ir como ambassador si así nos lo indicas en el formulario de inscripción.
 <!-- 5. Contactar con un instituto para contar tu experiencia, o darte de alta en [este formulario](https://forms.gle/9Myo4pTmsiHUv26K8) para avisarte en el caso de que algún instituto cercano pida ambassadors. -->
    
 ## Material de ayuda
@@ -49,7 +49,7 @@ Tendrá lugar el martes 19 de diciembre de 2023 con la participación de David C
 ## Recompensas
 - Si nos comunicas que, al menos, acudes a un instituto, podrás aparecer en [esta sección](https://ambassadorstelecorenta.github.io/ambassadors/) si así lo deseas y tendrás una badge de reconocimiento en LinkedIn [como esta](https://credsverse.com/credentials/9d5fa4c0-5170-4193-8124-b16fd9edfcb5).
 - Si nos comunicas que, al menos, acudes a dos institutos, conseguirás [este fantástico disco duro](https://www.amazon.es/Lexar-Port%C3%A1til-escritura-compatible-LSL500X001T-RNBNG/dp/B0CSYSSP3W) que te mandaremos a casa si así lo deseas.
-- El formulario para hacernos llegar esta información está [aquí](https://forms.gle/8kx5d8Lf8ASVzNfB9).
+- **Puedes hacernos llegar la información a través de [este formulario]**(https://forms.gle/8kx5d8Lf8ASVzNfB9).
 
 ---
 
