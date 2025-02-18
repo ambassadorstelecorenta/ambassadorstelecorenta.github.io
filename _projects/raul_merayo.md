@@ -5,6 +5,6 @@ description: Raúl Merayo Deiros
 img: assets/img/raul_merayo.jpg
 importance: 1
 category: enrolled
-redirect: 
+redirect: https://ambassadorstelecorenta.github.io/
 
 ---

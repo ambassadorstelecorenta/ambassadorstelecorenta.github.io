@@ -4,7 +4,7 @@ title: Eduardo Gómez González
 description: Eduardo Gómez González
 img: assets/img/6.jpg
 importance: 1
-category: enrolled
+category: gold
 redirect: www.linkedin.com/in/eduardo-gómez-gonzález
 
 ---

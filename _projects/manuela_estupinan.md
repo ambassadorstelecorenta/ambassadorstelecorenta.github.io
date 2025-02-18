@@ -5,6 +5,6 @@ description: Manuela Estupiñán López
 img: assets/img/manuela_estupinan.jpeg
 importance: 1
 category: enrolled
-redirect: 
+redirect: https://ambassadorstelecorenta.github.io/
 
 ---

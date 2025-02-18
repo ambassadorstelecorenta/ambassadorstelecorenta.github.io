@@ -5,6 +5,6 @@ description: Óscar Isidro Vega Expósito
 img: assets/img/oscar_vega.jpg
 importance: 1
 category: enrolled
-redirect: 
+redirect: https://ambassadorstelecorenta.github.io/
 
 ---
