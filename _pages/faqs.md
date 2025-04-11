@@ -22,7 +22,7 @@ Tienes una presentación que puedes usar de base [aquí](https://ambassadorstele
 ¡Claro! El desarrollo de tu trayectoria profesional (tanto si has hecho cosas muy relacionadas con la telecomunicación como si no) es de mucho valor, ya que la ingeniería de telecomunicación te habrá ayudado a resolver los problemas que te has encontrado en tu trabajo.
 
 # El premio no es lo más importante, pero... ¿cómo lo consigo?
-Para conseguir esta fantástica mochila serigrafiada con motivos de Teleco Renta, necesitas participar en charlas en, al menos, dos institutos. Para conseguir el reconocimiento en LinkedIn y, si lo deseas, la presencia en [esta sección](https://ambassadorstelecorenta.github.io/ambassadors), debes participar en, al menos, un instituto.
+Para conseguir este fantástico disco duro serigrafiado con motivos de Teleco Renta, necesitas participar en charlas en, al menos, un instituto. Para conseguir el reconocimiento en LinkedIn y, si lo deseas, la presencia en [esta sección](https://ambassadorstelecorenta.github.io/ambassadors), también debes participar en, al menos, un instituto.
 Para saber que has participado, necesitamos una foto de tu participación en cada instituto y la referencia (nombre y contacto) del instituto al que has acudido, así como unos pequeños datos que nos puedes mandar en este [formulario](https://forms.gle/8kx5d8Lf8ASVzNfB9).
 
 # ¿Cómo accedo a los institutos?
