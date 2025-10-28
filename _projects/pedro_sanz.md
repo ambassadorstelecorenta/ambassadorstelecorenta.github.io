@@ -4,7 +4,7 @@ title: Pedro Sanz Marcos
 description: Pedro Sanz Marcos
 img: assets/img/pedro_sanz.jpeg
 importance: 1
-category: silver
+category: gold
 redirect: https://www.linkedin.com/in/pedrosanzmarcos
 # related_publications: einstein1956investigations, einstein1950meaning
 ---

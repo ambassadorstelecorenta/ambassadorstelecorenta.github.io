@@ -4,7 +4,7 @@ title: Juan María Herrera
 description: Juan María Herrera
 img: assets/img/juan_maria_herrera.jpeg
 importance: 1
-category: silver
+category: gold
 redirect: https://es.linkedin.com/in/jmherr
 # related_publications: einstein1956investigations, einstein1950meaning
 ---
