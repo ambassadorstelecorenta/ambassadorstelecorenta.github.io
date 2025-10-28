@@ -13,7 +13,7 @@ La única condición es haber cursado (o estar cursando) un grado o carrera univ
 El certificado lo puedes pedir sin coste [aquí](https://sede.mjusticia.gob.es/es/tramites/certificado-registro-central), si tienes certificado digital. No es necesario que nos lo mandes, pero al colaborar en el programa aceptarás una declaración responsable de que lo tienes disponible en caso de que hiciera falta.
 
 # ¿Qué se espera que cuente en esta presentación?
-Tienes una presentación que puedes usar de base [aquí](https://ambassadorstelecorenta.github.io/assets/ambassadors_template.pptx), y también tienes la grabación de la primera presentación del programa, hecha por David Calle, de [unicoos](https://www.instagram.com/unicoos), [en este enlace](https://www.youtube.com/watch?v=EPdTn9Qp_W4). Este evento te puede servir como ejemplo de cómo comunicar tu experiencia de la forma más efectiva posible.
+Tienes una presentación que puedes usar de base [aquí](https://ambassadorstelecorenta.github.io/assets/ambassadors_template.pptx), y también tienes la grabación de la primera presentación del programa, hecha por David Calle, de [unicoos](https://www.instagram.com/unicoos), [en este enlace](https://www.youtube.com/watch?v=EPdTn9Qp_W4). Este evento te puede servir como ejemplo de cómo comunicar tu experiencia de la forma más efectiva posible. También tendrás una lista de reproducción con algunos testimonios de ambassadors destacados para inspirarte.
 
 # Estoy aún cursando el grado... ¿puedo participar?
 ¡Claro! Puedes contar tu experiencia y algún proyecto chulo que estés haciendo en el grado, o cómo percibes la dificultad de la carrera. Tu experiencia es incluso más valiosa para tu público porque hace poco que pasaste por ahí.
@@ -23,7 +23,4 @@ Tienes una presentación que puedes usar de base [aquí](https://ambassadorstele
 
 # El premio no es lo más importante, pero... ¿cómo lo consigo?
 Para conseguir este fantástico disco duro serigrafiado con motivos de Teleco Renta, necesitas participar en charlas en, al menos, un instituto. Para conseguir el reconocimiento en LinkedIn y, si lo deseas, la presencia en [esta sección](https://ambassadorstelecorenta.github.io/ambassadors), también debes participar en, al menos, un instituto.
-Para saber que has participado, necesitamos una foto de tu participación en cada instituto y la referencia (nombre y contacto) del instituto al que has acudido, así como unos pequeños datos que nos puedes mandar en este [formulario](https://forms.gle/8kx5d8Lf8ASVzNfB9).
-
-# ¿Cómo accedo a los institutos?
-Al apuntarte como ambassador [aquí](https://forms.gle/AExhzNHpmL8Wffs6A), te damos la posibilidad de que te contactemos para ponerte en contacto con institutos/colegios que hayan pedido ambassadors, o de ponernos en contacto con algún instituto/colegio al que quieras acudir. De todas formas, lo más sencillo es que directamente te pongas en contacto con institutos/colegios a los que te sea más cómodo asistir. 
+Para saber que has participado, necesitamos una constancia de que has participado en ese instituto y la referencia (nombre y contacto) del instituto al que has acudido, así como unos pequeños datos que nos puedes mandar en este [formulario](https://forms.gle/8kx5d8Lf8ASVzNfB9).
