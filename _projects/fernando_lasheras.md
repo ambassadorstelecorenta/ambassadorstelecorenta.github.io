@@ -4,7 +4,7 @@ title: Fernando Las-Heras
 description: Fernando Las-Heras
 img: assets/img/6.jpg
 importance: 1
-category: enrolled
+category: gold
 redirect: https://www.tsc.uniovi.es/~flasheras/flasheras
 
 ---

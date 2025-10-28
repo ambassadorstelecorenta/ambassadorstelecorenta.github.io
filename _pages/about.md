@@ -27,34 +27,35 @@ Cuando dices que eres teleco, ¿piensas que se entiende todo lo que se hace?  --
 # ¿En qué consiste?
 El objetivo de este programa es que compartas tu experiencia con estudiantes de secundaria y bachillerato para dar a conocer la ingeniería de telecomunicación, que creemos es cada vez más imprescindible para la sociedad actual.
 
----
+<!-- --- -->
 
 <!-- # Evento de presentación
 Tendrá lugar el martes 19 de diciembre de 2023 con la participación de David Calle, de [unicoos](https://www.instagram.com/unicoos) en el [auditorio del campus Puerta de Toledo de la Universidad Carlos III de Madrid](https://maps.app.goo.gl/WAoMZ7JXAGp4PH5v7). Si puedes asistir presencialmente, [¡apúntate en este formulario y nos vemos allí!](https://forms.gle/9Myo4pTmsiHUv26K8). Si no puedes asistir, lo puedes ver en el canal de Youtube de Teleco Renta [aquí](https://www.youtube.com/watch?v=EPdTn9Qp_W4). -->
 
----
+<!-- --- -->
 
 # Para ambassador/as
 ## ¿Qué necesito para participar?
 1. Estar cursando o haber cursado un grado o carrera de telecomunicación.
 2. En cumplimiento del art. 8 de la ley 45/2015, de 14 de octubre, de Voluntariado, solicitar la certificación negativa del Registro Central de Delincuentes Sexuales (el certificado no deberá tener más de dos meses de antigüedad). Lo puedes hacer online y completamente **gratis**, si tienes certificado digital, [aquí](https://sede.mjusticia.gob.es/es/tramites/certificado-registro-central).
-3. **Apuntarte en el programa en [este formulario](https://forms.gle/AExhzNHpmL8Wffs6A)**. 
-4. Te avisaremos si encontramos algún instituto/colegio cercano donde puedas ejercer de ambassador, aunque lo que mejor funciona es que contactes tú con los institutos/colegios que quieras. También podemos contactar a algún instituto/colegio al que quieras ir como ambassador si así nos lo indicas en el formulario de inscripción.
+3. Contactar con algún centro de secundaria en el que puedas ejercer como ambassador. También nos puedes escribir [a esta dirección de correo electrónico](mailto:ambassadors.telecorenta@gmail.com) si ya tienes un contacto y te piden más información sobre el programa.
+<!-- 4. **Apuntarte en el programa en [este formulario](https://forms.gle/AExhzNHpmL8Wffs6A)**. 
+1. Te avisaremos si encontramos algún instituto/colegio cercano donde puedas ejercer de ambassador, aunque lo que mejor funciona es que contactes tú con los institutos/colegios que quieras. También podemos contactar a algún instituto/colegio al que quieras ir como ambassador si así nos lo indicas en el formulario de inscripción. -->
 <!-- 5. Contactar con un instituto para contar tu experiencia, o darte de alta en [este formulario](https://forms.gle/9Myo4pTmsiHUv26K8) para avisarte en el caso de que algún instituto cercano pida ambassadors. -->
    
 ## Material de ayuda
 - [Presentación de apoyo](assets/ambassadors_template.pptx). 
 - [Grabación del primer evento de Ambassadors](https://www.youtube.com/watch?v=EPdTn9Qp_W4).
+- Vídeos de ejemplo de ambassadors (disponible en dic. 2025).
 
 ## Recompensas
-- Si nos comunicas que, al menos, acudes a un instituto, podrás aparecer en [esta sección](https://ambassadorstelecorenta.github.io/ambassadors/) si así lo deseas y tendrás una badge de reconocimiento en LinkedIn [como esta](https://credsverse.com/credentials/9d5fa4c0-5170-4193-8124-b16fd9edfcb5).
-- Si nos comunicas que, al menos, acudes a dos institutos, conseguirás [este fantástico disco duro](https://www.amazon.es/Lexar-Port%C3%A1til-escritura-compatible-LSL500X001T-RNBNG/dp/B0CSYSSP3W) que te mandaremos a casa si así lo deseas.
-- **Puedes hacernos llegar la información a través de [este formulario](https://forms.gle/8kx5d8Lf8ASVzNfB9)**.
+- Si nos comunicas que, al menos, acudes a un instituto, conseguirás [este fantástico disco duro](https://www.amazon.es/Lexar-Port%C3%A1til-escritura-compatible-LSL500X001T-RNBNG/dp/B0CSYSSP3W) que te mandaremos a casa y podrás tener una badge de reconocimiento en LinkedIn [como esta](https://credsverse.com/credentials/9d5fa4c0-5170-4193-8124-b16fd9edfcb5).
+- **Tienes que hacernos llegar la información a través de [este formulario](https://forms.gle/TuLfzCmnX2wPnHMc9)**.
 
 ---
 
 # Para institutos/colegios
-¿Quieres que te enviemos a un ambassador para que cuente su experiencia? Por favor, contáctanos [en este formulario](https://forms.gle/9im2CFGbbwXSZnrp8). Si quieres más información sobre el programa, nos puedes contactar [en esta dirección de correo electrónico](mailto:ambassadors.telecorenta@gmail.com).
+¿Quieres que te enviemos a un ambassador para que cuente su experiencia? Por favor, contáctanos [en esta dirección de correo electrónico](mailto:ambassadors.telecorenta@gmail.com).
 
 ---
 

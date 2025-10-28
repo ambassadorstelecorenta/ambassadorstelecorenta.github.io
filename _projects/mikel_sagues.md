@@ -4,7 +4,7 @@ title: Mikel Sagues García
 description: Mikel Sagues García
 img: assets/img/mikel_sagues.png
 importance: 1
-category: enrolled
+category: gold
 redirect: ambassadorstelecorenta.github.io
 
 # related_publications: einstein1956investigations, einstein1950meaning

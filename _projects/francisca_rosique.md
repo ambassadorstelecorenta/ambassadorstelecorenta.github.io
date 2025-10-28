@@ -4,7 +4,7 @@ title: María Francisca Rosique Contreras
 description: María Francisca Rosique Contreras
 img: assets/img/6.jpg
 importance: 1
-category: enrolled
+category: gold
 redirect: https://personas.upct.es/perfil/paqui.rosique
 # related_publications: einstein1956investigations, einstein1950meaning
 ---

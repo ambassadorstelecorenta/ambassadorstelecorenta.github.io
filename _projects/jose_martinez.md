@@ -4,6 +4,6 @@ title: José Martínez Ortega
 description: José Martínez Ortega
 img: assets/img/jose_martinez.png
 importance: 1
-category: enrolled
+category: gold
 redirect: https://www.instagram.com/joses13.14/
 ---

@@ -4,6 +4,6 @@ title: Andrea Nazaret González Maroto
 description: Andrea Nazaret González Maroto 
 img: assets/img/6.jpg
 importance: 1
-category: enrolled
+category: gold
 redirect: https://ambassadorstelecorenta.github.io
 ---

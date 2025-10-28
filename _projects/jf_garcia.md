@@ -4,6 +4,6 @@ title: José Fernando García Ródenas
 description: José Fernando García Ródenas
 img: assets/img/jf_garcia.jpg
 importance: 1
-category: enrolled
+category: gold
 redirect: ambassadorstelecorenta.github.io
 ---

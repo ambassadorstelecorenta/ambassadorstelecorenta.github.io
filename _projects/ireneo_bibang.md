@@ -4,7 +4,7 @@ title: Ireneo Bibang
 description: Ireneo Bibang
 img: assets/img/ireneo_bibang.jpeg
 importance: 1
-category: enrolled
+category: gold
 redirect: https://www.instagram.com/bigui.bibang/
 
 ---

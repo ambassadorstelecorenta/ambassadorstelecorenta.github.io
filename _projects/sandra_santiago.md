@@ -4,6 +4,6 @@ title: Sandra Santiago Mesas
 description: Sandra Santiago Mesas
 img: assets/img/sandra_santiago.jpeg
 importance: 1
-category: enrolled
+category: gold
 redirect: https://www.linkedin.com/in/sandrasanme/
 ---
