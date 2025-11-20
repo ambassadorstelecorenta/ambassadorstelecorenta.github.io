@@ -44,9 +44,10 @@ Tendrá lugar el martes 19 de diciembre de 2023 con la participación de David C
 - [Presentación de apoyo](assets/ambassadors_template.pptx). 
 - [Grabación del primer evento de Ambassadors](https://www.youtube.com/watch?v=EPdTn9Qp_W4).
 - Vídeos de ejemplo de ambassadors (disponible en dic. 2025).
+- Material de promoción de Teleco Renta (sujeto a disponbilidad, [escríbenos](mailto:ambassadors.telecorenta@gmail.com)).
 
 ## Recompensas
-- Si nos comunicas que, al menos, acudes a un instituto, conseguirás [este fantástico disco duro](https://www.amazon.es/Lexar-Port%C3%A1til-escritura-compatible-LSL500X001T-RNBNG/dp/B0CSYSSP3W) que te mandaremos a casa y podrás tener una badge de reconocimiento en LinkedIn [como esta](https://credsverse.com/credentials/9d5fa4c0-5170-4193-8124-b16fd9edfcb5).
+- Si nos comunicas que, al menos, acudes a un instituto, conseguirás [este fantástico disco duro](https://www.lexar.com/es/products/Lexar-SL500-Portable-SSD/) que te mandaremos a casa y podrás tener una badge de reconocimiento en LinkedIn [como esta](https://credsverse.com/credentials/9d5fa4c0-5170-4193-8124-b16fd9edfcb5).
 - **Tienes que hacernos llegar la información a través de [este formulario](https://forms.gle/TuLfzCmnX2wPnHMc9)**.
 
 ---
