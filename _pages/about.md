@@ -51,22 +51,11 @@ Tendrá lugar el martes 19 de diciembre de 2023 con la participación de David C
 - **Tienes que hacernos llegar la información a través de [este formulario](https://forms.gle/TuLfzCmnX2wPnHMc9)**.
 
 ## Correo de ejemplo
-Buenos días:
-
-Soy ing. de telecomunicación. Me pongo en contacto para ofrecerme a dar una charla en su centro de secundaria como parte del programa Ambassadors de Teleco Renta (toda la información sobre el programa está aquí: https://ambassadorstelecorenta.github.io).
-
-Soy una persona muy motivada y que piensa que es importante que los jóvenes tomen una decisión informada sobre su futuro académico, que marcará su futuro profesional. Por eso, me gustaría compartir mi experiencia como ing. de telecomunicación y explicar las oportunidades que ofrece hacer esta carrera.
-
-Para que os hagáis una idea de los contenidos que trataré en la sesión, tenéis varios ejemplos en esta playlist: https://youtube.com/playlist?list=PLmlFb5_bj6H02sWz6h5aUdO5kcyerebdc&si=DHEMdDBGSRxl5-9a. También tenéis un evento con David Calle en el que se hablaba de su trayectoria y de la importancia del programa aquí: https://www.youtube.com/live/EPdTn9Qp_W4?si=BJjX4XNGBUe0ZWUV
-
-Muchas gracias por vuestro tiempo y os rogaría confirmación de la recepción del correo, así como de vuestra disponibilidad. Mi teléfono es <> por si queréis alguna aclaración adicional.
-
-## Correo de ejemplo
 
 Si no sabes cómo abordar al centro, hemos preparado una plantilla base que puedes adaptar.
 
 <details>
-  <summary style="cursor: pointer; font-weight: bold; color: #007bff;">📧 Desplegar propuesta de correo para contactar con el centro</summary>
+  <summary style="cursor: pointer; font-weight: bold; color: #007bff;">📧 Desplegar una propuesta de correo para contactar con el centro</summary>
   <div style="background-color: #f8f9fa; padding: 20px; border-radius: 5px; margin-top: 10px; border: 1px solid #dee2e6;">
     <p><strong>Asunto:</strong> Propuesta de charla sobre Ingeniería de Telecomunicación - Programa Ambassadors de Teleco Renta</p>
     <hr>
